@@ -1,0 +1,13 @@
+.flex-container{
+    display: flex;
+    background-color: white;
+}
+.flex-container > div{
+    background-color: white;
+    margin: 0px;
+    padding: 150px;
+    font-size: 20px;
+}
+.contact, .skills, .hobbies, .summary, .education, .achivement, .experience, .aim{
+    font-size: 20px;
+}
